@@ -5,7 +5,7 @@
          type: String,
          maxLength: 50,
      },
-     name: {
+     email: {
          type: String,
          trim: true,
          unique: 1,
