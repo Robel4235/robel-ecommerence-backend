@@ -1,7 +1,7 @@
 /node_modules
 /build
 prod.js
-dev.js
+dev.js 
 .DS_Store 
 
 npm-debug.log*
